@@ -1,2 +1,0 @@
-# CodeExamples
-Примеры кода
